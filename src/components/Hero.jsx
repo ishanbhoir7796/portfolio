@@ -88,7 +88,7 @@ function ProfileCircle() {
         transition: 'border-color 500ms, box-shadow 500ms',
       }}>
         <img
-          src="/square.jpg"
+          src="https://drive.google.com/thumbnail?id=1imQTVeCinEGvvoJAfX3qhd71VXFog_aD&sz=w800"
           alt="Ishan Bhoir"
           style={{
             width: '100%', height: '100%',
@@ -209,7 +209,7 @@ export default function Hero() {
               Contact
             </CTAButton>
             <motion.a
-              href="/Ishan_Bhoir_Resume.pdf"
+              href="https://drive.google.com/uc?export=download&id=11f1Jnu_bl45oyFZPO0WtgQ9_arbtw8x8"
               download="Ishan_Bhoir_Resume.pdf"
               data-cursor-hover
               whileHover={{ scale: 1.04, y: -2 }}

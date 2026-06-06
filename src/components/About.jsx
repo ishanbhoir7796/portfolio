@@ -179,7 +179,7 @@ export default function About() {
             style={{ position: 'sticky', top: '6rem' }}
           >
             <div className="about-photo-wrap">
-              <img src="/rectangle.jpg" alt="Ishan Bhoir" />
+              <img src="https://drive.google.com/thumbnail?id=1zh3D-IueyAVrsMm2xWWz1e6vA3ZVtjIM&sz=w800" alt="Ishan Bhoir" />
               <div style={{
                 position: 'absolute', bottom: 0, left: 0, right: 0, height: '30%',
                 background: 'linear-gradient(to top, var(--bg) 0%, transparent 100%)',
