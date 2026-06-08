@@ -51,6 +51,7 @@ body.theme-light {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  cursor: none !important;
 }
 
 html {
@@ -72,8 +73,6 @@ body {
   overflow-x: hidden;
   width: 100%;
 }
-
-body.theme-light { cursor: auto; }
 
 /* ═══════════════════════════════════════════════════
    SCROLLBAR
@@ -167,7 +166,6 @@ body.theme-light .glass-card:hover {
   letter-spacing: 0.04em;
   color: var(--text-muted);
   background: var(--pill-bg);
-  cursor: default;
   transition: border-color 250ms, color 250ms, background 250ms, box-shadow 250ms;
 }
 
@@ -319,7 +317,6 @@ body.theme-dark .logo-mark:hover { box-shadow: 0 0 12px var(--accent-glow); }
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
   outline: none;
   backdrop-filter: blur(12px);
   transition: border-color 300ms, color 300ms, box-shadow 300ms;
@@ -371,7 +368,6 @@ body.theme-dark .back-to-top:hover { box-shadow: 0 0 16px var(--accent-glow); }
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
   outline: none;
   transition: border-color 300ms, background 300ms, color 300ms, box-shadow 300ms;
   flex-shrink: 0;

@@ -109,7 +109,7 @@ export const projects = [
   {
     featured: true,
     title: "PRISM",
-    subtitle: "Pull Request Intelligence System",
+    subtitle: "Pull Request Intelligence & Smart Review Monitor",
     description:
       "AI-powered code review automation that captures GitHub PR webhooks, extracts diffs, and posts structured Claude AI reviews directly as GitHub comments within seconds of a PR being opened.",
     tech: ["Java 21", "Spring Boot", "Claude AI", "GitHub Webhooks", "React", "MongoDB", "Docker"],
@@ -145,13 +145,13 @@ export const education = [
     degree: "M.S. in Computer Science",
     institution: "San Diego State University",
     location: "San Diego, CA",
-    period: "Aug 2022 - May 2024",
-    note: "Graduated",
+    period: "Aug 2024 - May 2026",
+    note: null,
     gpa: "3.66 / 4.0",
     coursework: ["Algorithm Analysis & Design", "Machine Learning", "Database Theory", "Distributed Systems", "Computer Security", "Data Mining", "Networks & Distributed Systems"],
   },
   {
-    degree: "B.E. in Computer Engineering",
+    degree: "B.E. in Computer Science",
     institution: "Savitribai Phule Pune University",
     location: "Pune, India",
     period: "Aug 2018 - May 2022",

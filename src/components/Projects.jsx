@@ -48,7 +48,6 @@ function TiltCard({ children, style }) {
     <motion.div
       ref={cardRef}
       className="glass-card"
-      data-cursor-hover
       onMouseMove={handleMouseMove}
       onMouseLeave={() => setTilt({ x: 0, y: 0 })}
       animate={{ rotateX: tilt.x, rotateY: tilt.y, y: tilt.x !== 0 || tilt.y !== 0 ? -3 : 0 }}
