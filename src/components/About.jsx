@@ -6,7 +6,7 @@ const EASE = [0.16, 1, 0.3, 1];
 
 const STATUS_CARDS = [
   { label: 'Currently',    value: 'Open to Opportunities', accent: true  },
-  { label: 'Based in',     value: 'San Diego, CA'                         },
+  { label: 'Based in',     value: 'San Francisco, CA'                     },
   { label: 'Focus',        value: 'Backend & Distributed Systems'         },
   { label: 'Latest Build', value: 'PRISM'                                  },
 ];

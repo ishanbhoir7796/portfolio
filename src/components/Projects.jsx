@@ -188,6 +188,9 @@ function ProjectCard({ project, inView, delay, highlights }) {
               transition: 'color 500ms',
             }}>
               {project.subtitle}
+              {project.year && (
+                <span style={{ color: 'var(--text-subtle)' }}> · {project.year}</span>
+              )}
             </p>
             <p style={{
               fontSize: 'clamp(0.82rem, 1.2vw, 0.95rem)', fontWeight: 300,

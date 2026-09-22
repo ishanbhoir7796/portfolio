@@ -151,7 +151,7 @@ export default function Navbar({ isDark, toggle }) {
         {/* Right side actions */}
         <div className="flex items-center gap-3">
           <motion.a
-            href="https://drive.google.com/uc?export=download&id=11f1Jnu_bl45oyFZPO0WtgQ9_arbtw8x8"
+            href="https://drive.google.com/uc?export=download&id=1ddgOZbNRdbQeeEzPubdiGH6fZPhL4jHd"
             download="Ishan_Bhoir_Resume.pdf"
             data-cursor-hover
             className="hidden md:inline-flex resume-btn"
@@ -251,7 +251,7 @@ export default function Navbar({ isDark, toggle }) {
             ))}
             <div style={{ display: 'flex', gap: '0.75rem', paddingTop: '0.5rem', flexWrap: 'wrap' }}>
               <a
-                href="https://drive.google.com/uc?export=download&id=11f1Jnu_bl45oyFZPO0WtgQ9_arbtw8x8" download="Ishan_Bhoir_Resume.pdf"
+                href="https://drive.google.com/uc?export=download&id=1ddgOZbNRdbQeeEzPubdiGH6fZPhL4jHd" download="Ishan_Bhoir_Resume.pdf"
                 style={{
                   fontFamily: 'JetBrains Mono, monospace', fontSize: '0.65rem',
                   letterSpacing: '0.1em', textTransform: 'uppercase',
