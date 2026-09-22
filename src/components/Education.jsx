@@ -6,7 +6,7 @@ const EASE = [0.16, 1, 0.3, 1];
 
 const INSTITUTION_LINKS = {
   'San Diego State University': 'https://www.sdsu.edu',
-  'Savitribai Phule Pune University': 'https://www.unipune.ac.in',
+  'Pimpri Chinchwad College of Engineering (SPPU)': 'https://www.pccoepune.com',
 };
 
 function EduCard({ edu, index, inView }) {

@@ -209,7 +209,7 @@ export default function Hero() {
               Contact
             </CTAButton>
             <motion.a
-              href="https://drive.google.com/uc?export=download&id=11f1Jnu_bl45oyFZPO0WtgQ9_arbtw8x8"
+              href="https://drive.google.com/uc?export=download&id=1ddgOZbNRdbQeeEzPubdiGH6fZPhL4jHd"
               download="Ishan_Bhoir_Resume.pdf"
               data-cursor-hover
               whileHover={{ scale: 1.04, y: -2 }}
@@ -250,7 +250,7 @@ export default function Hero() {
               display: 'block', whiteSpace: 'nowrap', overflow: 'hidden',
               textOverflow: 'ellipsis',
             }}>
-              SOFTWARE ENGINEER · 2 YRS @ FORTUNE 500 · MS CS SDSU '26 · SAN DIEGO, CA · OPEN TO WORK ✦
+              SOFTWARE ENGINEER · 2 YRS @ FORTUNE 500 · MS CS SDSU '26 · SAN FRANCISCO, CA · OPEN TO WORK ✦
             </span>
           </motion.div>
         </div>

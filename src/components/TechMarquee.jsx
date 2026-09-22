@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 
 const ROW1 = "JAVA · SPRING BOOT · MICROSERVICES · REST APIs · AWS · DOCKER · MONGODB · DISTRIBUTED SYSTEMS · CI/CD · ";
-const ROW2 = "KUBERNETES · SPRING SECURITY · JENKINS · OPENSHIFT · POSTGRESQL · PYTHON · JWT · REACT · MAVEN · ";
+const ROW2 = "KUBERNETES · SPRING SECURITY · JENKINS · OPENSHIFT · KAFKA · REDIS · PYTHON · JWT · REACT · MAVEN · ";
 
 function Row({ text, direction = 1, duration = 38 }) {
   return (
